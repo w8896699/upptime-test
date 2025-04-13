@@ -4,19 +4,19 @@
     "url": "https://chat.developer.gov.bc.ca/api/info",
     "icon": "https://icons.duckduckgo.com/ip3/chat.developer.gov.bc.ca.ico",
     "slug": "rocket-chat",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 720,
-    "timeWeek": 694,
-    "timeMonth": 638,
-    "timeYear": 638,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 653,
+    "timeDay": 824,
+    "timeWeek": 723,
+    "timeMonth": 653,
+    "timeYear": 653,
     "dailyMinutesDown": {
-      "2025-04-13": 0
+      "2025-04-13": 53
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://registry.developer.gov.bc.ca",
     "icon": "https://icons.duckduckgo.com/ip3/registry.developer.gov.bc.ca.ico",
     "slug": "registry",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 618,
-    "timeWeek": 601,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "96.34%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 567,
+    "timeDay": 614,
+    "timeWeek": 602,
+    "timeMonth": 567,
+    "timeYear": 567,
     "dailyMinutesDown": {
-      "2025-04-13": 0
+      "2025-04-13": 53
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.silver.devops.gov.bc.ca:6443/readyz",
     "icon": "https://icons.duckduckgo.com/ip3/api.silver.devops.gov.bc.ca.ico",
     "slug": "silver-cluster",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "96.33%",
+    "uptimeWeek": "99.48%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
     "time": 313,
-    "timeDay": 347,
-    "timeWeek": 369,
+    "timeDay": 333,
+    "timeWeek": 363,
     "timeMonth": 313,
     "timeYear": 313,
     "dailyMinutesDown": {
-      "2025-04-13": 0
+      "2025-04-13": 53
     }
   },
   {
