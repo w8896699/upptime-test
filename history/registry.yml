@@ -1,7 +1,7 @@
 url: https://registry.developer.gov.bc.ca
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-13T13:47:19.542Z
+status: up
+code: 200
+responseTime: 610
+lastUpdated: 2025-04-13T14:40:04.805Z
 startTime: 2025-03-28T19:38:33.400Z
 generator: Upptime <https://github.com/upptime/upptime>
