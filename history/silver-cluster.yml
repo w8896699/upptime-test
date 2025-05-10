@@ -1,7 +1,7 @@
 url: https://api.silver.devops.gov.bc.ca:6443/readyz
 status: up
 code: 200
-responseTime: 271
-lastUpdated: 2025-05-09T23:20:16.073Z
+responseTime: 566
+lastUpdated: 2025-05-10T23:19:25.227Z
 startTime: 2025-03-28T19:38:34.030Z
 generator: Upptime <https://github.com/upptime/upptime>
